@@ -43,4 +43,4 @@ function App() {
 }
 
 export default App;
-// Day 2: 3D Login Page, Dashboard, Inventory Pages Complete
+// Day 2: Tailwind CSS configuration
